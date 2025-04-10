@@ -158,7 +158,7 @@
           <mxGeometry x="166.5" y="2050" width="557" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2JRWLy81K5dylXvyoho-62" value="CPU controls the process of internal hardware like, USB, Motherboard, Harddisk, SSD, RAM, Power" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2090" width="557" height="30" as="geometry" />
+          <mxGeometry x="160" y="2100" width="557" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2JRWLy81K5dylXvyoho-63" value="USB - Universal Serial Bus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="150" y="2150" width="557" height="30" as="geometry" />

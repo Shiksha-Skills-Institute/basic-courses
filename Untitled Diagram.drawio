@@ -83,7 +83,7 @@
           <mxGeometry x="360" y="870" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2JRWLy81K5dylXvyoho-27" value="It runs the program in OS" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="1000" width="80" height="80" as="geometry" />
+          <mxGeometry x="377" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a2JRWLy81K5dylXvyoho-29" value="Android" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1020" width="120" height="60" as="geometry" />

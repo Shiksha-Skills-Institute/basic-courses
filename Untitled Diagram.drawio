@@ -151,6 +151,27 @@
         <mxCell id="a2JRWLy81K5dylXvyoho-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a2JRWLy81K5dylXvyoho-51" target="a2JRWLy81K5dylXvyoho-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-59" value="CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1990" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-61" value="CPU - Control Processing Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="2050" width="557" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-62" value="CPU controls the process of internal hardware like, USB, Motherboard, Harddisk, SSD, RAM, Power" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2090" width="557" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-63" value="USB - Universal Serial Bus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2150" width="557" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-64" value="SSD - Solid State Drive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2180" width="557" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-65" value="RAM - Random Access Memory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="146.5" y="2210" width="557" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2JRWLy81K5dylXvyoho-66" value="MOSFET Battery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;textShadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="143" y="2240" width="557" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
